@@ -1,2 +1,23 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+# Compiled object files
+*.o
+
+# Executable files
+proxy
+proxy_server_with_cache
+
+# Precompiled Headers
+*.gch
+
+# Backup files
+*~
+
+# Build files
+Makefile~
+
+# OS generated files
+.DS_Store
+
+# Logs
+*.log
